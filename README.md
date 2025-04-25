@@ -9,10 +9,15 @@ Python Basics: These scripts focus on the core concepts of Python like variables
 Learning Goals 🎯:
 
 Mastering variables and data types 🔑: Understanding how to store and manipulate different types of data (strings, integers, floats, etc.).
+
 Control flow with conditionals ⚡: Practicing if, elif, and else to control the flow of the program.
+
 Working with loops 🔄: Learning how to use for and while loops to repeat actions efficiently.
+
 Functions 🔧: Creating reusable blocks of code that perform specific tasks.
+
 Data structures 🗃️: Getting comfortable with lists, dictionaries, and other basic structures to store and organize data.
+
 File handling 📂: Learning how to open, read, and write to files in Python.
 
 What I’m Doing 🛠️
