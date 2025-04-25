@@ -1,0 +1,22 @@
+{
+    "name": "Bob",
+    "age": 30,
+    "is_employed": false,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+    },
+    "skills": [
+        "python",
+        "c",
+        "devops",
+        "aws",
+        "networking"
+    ],
+    "hobbies": [
+        "reading",
+        "cycling"
+    ]
+}
