@@ -1,4 +1,4 @@
-Basic Python Code 🐍
+# Basic Python🐍
 
 Welcome to my Basic Python code repo! 🎉 This project contains simple Python scripts where I'm exploring and learning the fundamentals of Python programming. 🌟
 
